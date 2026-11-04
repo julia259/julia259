@@ -1,0 +1,41 @@
+{
+  "login": "julia259",
+  "world": "Lunar Daybook",
+  "project": "booking-desk",
+  "sourceHead": "749d557984f6026e62851c7e9c50ddb681d3dd23",
+  "runtime": "Node.js 22+",
+  "start": "node server.mjs",
+  "port": 8810,
+  "demoCheck": "node examples/profile-mission/check.mjs",
+  "existingTests": "passed",
+  "testCount": 6,
+  "demoResult": {
+    "facts": [
+      [
+        "2",
+        "calendar events"
+      ],
+      [
+        "0",
+        "overlapping slots"
+      ],
+      [
+        "UTC",
+        "exported time zone"
+      ]
+    ],
+    "slots": [
+      [
+        "08:00",
+        "08:30"
+      ],
+      [
+        "08:30",
+        "09:00"
+      ]
+    ]
+  },
+  "zipBytes": 80756,
+  "zipSha256": "3701EB498649EA4D4ACF6CDCDD1470D3C9AB6971B54478B50891C49581175E9F",
+  "attribution": "Original project authors and LICENSE retained. Source download excludes .git; original history remains in the local source repository."
+}
