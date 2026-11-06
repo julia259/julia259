@@ -65,7 +65,7 @@ Synthetic time-report input. A start, an end and an explicit break keep the calc
 
 ![Limited public account interactions](https://julia259.github.io/julia259/src/assets/live/interactions.svg)
 
-These charts are rebuilt on a six-hour schedule after GitHub Pages is enabled. The observation time is printed on every chart. Commits are unique default-branch SHAs across all authors and owned public repositories, including forks. Language bytes describe repositories, not personal skill. Public interactions are a limited event feed (up to 300 events / 30 days), not visitor analytics. API and image caches may delay updates.
+These charts record one successful daily statistics snapshot after the workflow is enabled. Four attempts per day provide retries. Snapshot commits are labelled automated and authored by github-actions[bot], not personal coding contributions. The observation time is printed on every chart. Commits are unique default-branch SHAs across all authors and owned public repositories, including forks. Language bytes describe repositories, not personal skill. Public interactions are a limited event feed (up to 300 events / 30 days), not visitor analytics. API and image caches may delay updates.
 
 [Live data and scope](https://julia259.github.io/julia259/src/assets/live/metrics.json) · [Portfolio website](https://julia259.github.io/julia259/) · [Refresh setup](src/SETUP.md)
 
