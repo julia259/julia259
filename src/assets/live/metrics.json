@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "login": "julia259",
-  "observedAt": "2026-11-06T15:44:44.990Z",
+  "observedAt": "2026-11-09T14:13:11.219Z",
   "refreshHours": 6,
   "window": {
-    "since": "2026-10-08T00:00:00.000Z",
-    "until": "2026-11-06T15:44:44.990Z",
+    "since": "2026-10-11T00:00:00.000Z",
+    "until": "2026-11-09T14:13:11.219Z",
     "timezone": "UTC"
   },
   "scope": "Owned public repositories including forks; unique default-branch commits by all authors. Language bytes describe repositories, not skill or authorship. Public events are a limited activity feed, not visitor analytics.",
@@ -14,7 +14,7 @@
     "forks": 0,
     "stars": 0,
     "openIssuesAndPullRequests": 0,
-    "uniqueCommits30d": 13
+    "uniqueCommits30d": 14
   },
   "repositories": [
     {
@@ -49,26 +49,14 @@
     }
   ],
   "languages": {
-    "JavaScript": 129043,
-    "HTML": 14263,
+    "JavaScript": 135408,
+    "HTML": 23332,
     "Shell": 208,
     "Batchfile": 174,
     "Makefile": 60,
     "CSS": 2541
   },
   "daily": [
-    {
-      "day": "2026-10-08",
-      "commits": 0
-    },
-    {
-      "day": "2026-10-09",
-      "commits": 0
-    },
-    {
-      "day": "2026-10-10",
-      "commits": 0
-    },
     {
       "day": "2026-10-11",
       "commits": 0
@@ -175,14 +163,27 @@
     },
     {
       "day": "2026-11-06",
-      "commits": 8
+      "commits": 9
+    },
+    {
+      "day": "2026-11-07",
+      "commits": 0
+    },
+    {
+      "day": "2026-11-08",
+      "commits": 0
+    },
+    {
+      "day": "2026-11-09",
+      "commits": 0
     }
   ],
   "publicEvents": {
     "counts": {
-      "PushEvent": 1
+      "CreateEvent": 1,
+      "PushEvent": 4
     },
-    "observed": 1,
+    "observed": 5,
     "feedLimit": 300,
     "feedLimitReached": false,
     "maxApiLatencyHours": 6
@@ -190,15 +191,21 @@
   "sources": [
     "https://api.github.com/users/julia259/repos?type=owner&sort=full_name&per_page=100&page=1",
     "https://api.github.com/repos/julia259/booking-desk/languages",
-    "https://api.github.com/repos/julia259/booking-desk/commits?sha=main&since=2026-10-08T00:00:00.000Z&until=2026-11-06T15:44:44.990Z&per_page=100&page=1",
+    "https://api.github.com/repos/julia259/booking-desk/commits?sha=main&since=2026-10-11T00:00:00.000Z&until=2026-11-09T14:13:11.219Z&per_page=100&page=1",
     "https://api.github.com/repos/julia259/julia259/languages",
-    "https://api.github.com/repos/julia259/julia259/commits?sha=main&since=2026-10-08T00:00:00.000Z&until=2026-11-06T15:44:44.990Z&per_page=100&page=1",
+    "https://api.github.com/repos/julia259/julia259/commits?sha=main&since=2026-10-11T00:00:00.000Z&until=2026-11-09T14:13:11.219Z&per_page=100&page=1",
     "https://api.github.com/repos/julia259/test-code/languages",
-    "https://api.github.com/repos/julia259/test-code/commits?sha=main&since=2026-10-08T00:00:00.000Z&until=2026-11-06T15:44:44.990Z&per_page=100&page=1",
+    "https://api.github.com/repos/julia259/test-code/commits?sha=main&since=2026-10-11T00:00:00.000Z&until=2026-11-09T14:13:11.219Z&per_page=100&page=1",
     "https://api.github.com/repos/julia259/test-js/languages",
-    "https://api.github.com/repos/julia259/test-js/commits?sha=main&since=2026-10-08T00:00:00.000Z&until=2026-11-06T15:44:44.990Z&per_page=100&page=1",
+    "https://api.github.com/repos/julia259/test-js/commits?sha=main&since=2026-10-11T00:00:00.000Z&until=2026-11-09T14:13:11.219Z&per_page=100&page=1",
     "https://api.github.com/repos/julia259/theRazorite/languages",
-    "https://api.github.com/repos/julia259/theRazorite/commits?sha=main&since=2026-10-08T00:00:00.000Z&until=2026-11-06T15:44:44.990Z&per_page=100&page=1",
+    "https://api.github.com/repos/julia259/theRazorite/commits?sha=main&since=2026-10-11T00:00:00.000Z&until=2026-11-09T14:13:11.219Z&per_page=100&page=1",
     "https://api.github.com/users/julia259/events/public?per_page=100&page=1"
-  ]
+  ],
+  "automation": {
+    "kind": "daily-statistics-snapshot",
+    "author": "julia259",
+    "committer": "github-actions[bot]",
+    "note": "Repository history includes automated statistics updates; this is not personal contribution scoring."
+  }
 }
