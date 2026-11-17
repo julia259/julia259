@@ -57,13 +57,13 @@ Synthetic time-report input. A start, an end and an explicit break keep the calc
 
 ## Code and activity
 
-![Public repository totals](https://julia259.github.io/julia259/src/assets/live/overview.svg?snapshot=2026-11-16T06%3A45%3A12.756Z)
+![Public repository totals](https://julia259.github.io/julia259/src/assets/live/overview.svg?snapshot=2026-11-17T08%3A05%3A13.956Z)
 
-![Public default-branch history, all authors](https://julia259.github.io/julia259/src/assets/live/activity.svg?snapshot=2026-11-16T06%3A45%3A12.756Z)
+![Public default-branch history, all authors](https://julia259.github.io/julia259/src/assets/live/activity.svg?snapshot=2026-11-17T08%3A05%3A13.956Z)
 
-![Public repository language bytes](https://julia259.github.io/julia259/src/assets/live/languages.svg?snapshot=2026-11-16T06%3A45%3A12.756Z)
+![Public repository language bytes](https://julia259.github.io/julia259/src/assets/live/languages.svg?snapshot=2026-11-17T08%3A05%3A13.956Z)
 
-![Limited public account interactions](https://julia259.github.io/julia259/src/assets/live/interactions.svg?snapshot=2026-11-16T06%3A45%3A12.756Z)
+![Limited public account interactions](https://julia259.github.io/julia259/src/assets/live/interactions.svg?snapshot=2026-11-17T08%3A05%3A13.956Z)
 
 These charts refresh from real GitHub observations on every successful workflow run, scheduled every six hours. At most one daily snapshot is committed; later runs still rebuild and publish the charts. Snapshot commits are labelled automated and authored by the profile owner using a verified GitHub noreply identity, with github-actions[bot] as committer. Owner contribution attribution follows GitHub rules; repository charts still include all authors. The observation time is printed on every chart. Commits are unique default-branch SHAs across all authors and owned public repositories, including forks. Language bytes describe repositories, not personal skill. Public interactions are a limited event feed (up to 300 events / 30 days), not visitor analytics. API and image caches may delay updates.
 
